@@ -1,0 +1,563 @@
+timestamp,signal,score,candles,reasons
+2026-10-01 12:50:20,NO OPERAR,-3,40,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 12:50:30,NO OPERAR,-3,30,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:50:40,NO OPERAR,-1,33,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:50:51,NO OPERAR,-3,41,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 12:51:01,NO OPERAR,-2,58,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:51:11,NO OPERAR,0,0,No hay suficientes velas.
+2026-10-01 12:51:21,NO OPERAR,0,0,No hay suficientes velas.
+2026-10-01 12:51:31,NO OPERAR,0,4,No hay suficientes velas.
+2026-10-01 12:51:41,NO OPERAR,0,4,No hay suficientes velas.
+2026-10-01 12:51:51,NO OPERAR,0,3,No hay suficientes velas.
+2026-10-01 12:52:01,NO OPERAR,0,0,No hay suficientes velas.
+2026-10-01 12:52:11,NO OPERAR,0,1,No hay suficientes velas.
+2026-10-01 12:52:21,NO OPERAR,0,1,No hay suficientes velas.
+2026-10-01 12:52:31,NO OPERAR,0,0,No hay suficientes velas.
+2026-10-01 12:55:01,NO OPERAR,NO OPERAR,-1,55,0,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:55:11,NO OPERAR,NO OPERAR,-1,54,0,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:55:21,NO OPERAR,NO OPERAR,-1,54,0,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:55:31,NO OPERAR,NO OPERAR,-1,54,0,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:55:41,NO OPERAR,NO OPERAR,-1,51,0,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:55:51,NO OPERAR,NO OPERAR,1,51,0,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:56:02,BAJADA,NO OPERAR,-6,86,1,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:56:12,BAJADA,NO OPERAR,-7,88,2,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:56:22,BAJADA,BAJADA CONFIRMADA,-6,86,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:56:32,BAJADA,BAJADA CONFIRMADA,-6,87,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:56:42,BAJADA,BAJADA CONFIRMADA,-7,63,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:56:52,BAJADA,BAJADA CONFIRMADA,-7,68,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:57:02,BAJADA,BAJADA CONFIRMADA,-7,70,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:57:12,NO OPERAR,NO OPERAR,-2,68,0,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente.
+2026-10-01 12:57:22,BAJADA,NO OPERAR,-5,67,1,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:57:32,BAJADA,NO OPERAR,-5,67,2,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:57:43,NO OPERAR,NO OPERAR,-2,59,0,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 12:57:53,BAJADA,NO OPERAR,-5,59,1,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 12:58:03,BAJADA,NO OPERAR,-6,58,2,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:58:13,BAJADA,BAJADA CONFIRMADA,-4,42,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 12:58:23,BAJADA,BAJADA CONFIRMADA,-7,41,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:58:33,BAJADA,BAJADA CONFIRMADA,-7,42,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:58:43,BAJADA,BAJADA CONFIRMADA,-6,40,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente.
+2026-10-01 12:58:53,BAJADA,BAJADA CONFIRMADA,-7,40,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:59:03,BAJADA,BAJADA CONFIRMADA,-7,41,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:59:13,BAJADA,BAJADA CONFIRMADA,-7,42,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:59:23,BAJADA,BAJADA CONFIRMADA,-6,34,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:59:34,BAJADA,BAJADA CONFIRMADA,-7,41,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 12:59:44,BAJADA,BAJADA CONFIRMADA,-4,29,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 12:59:54,BAJADA,BAJADA CONFIRMADA,-5,31,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:00:04,NO OPERAR,NO OPERAR,-3,25,0,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:00:14,BAJADA,NO OPERAR,-5,27,1,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:00:24,BAJADA,NO OPERAR,-4,30,2,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:00:34,BAJADA,BAJADA CONFIRMADA,-4,30,3,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:00:44,NO OPERAR,NO OPERAR,-1,25,0,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:00:54,NO OPERAR,NO OPERAR,-3,26,0,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:01:04,NO OPERAR,NO OPERAR,-3,27,0,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:01:14,NO OPERAR,NO OPERAR,-2,27,0,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:01:25,BAJADA,NO OPERAR,-4,27,1,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:01:35,NO OPERAR,NO OPERAR,-1,41,0,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:01:45,NO OPERAR,NO OPERAR,0,1,0,No hay suficientes velas.
+2026-10-01 13:01:55,NO OPERAR,NO OPERAR,0,1,0,No hay suficientes velas.
+2026-10-01 13:02:05,NO OPERAR,NO OPERAR,0,1,0,No hay suficientes velas.
+2026-10-01 13:02:15,NO OPERAR,NO OPERAR,0,1,0,No hay suficientes velas.
+2026-10-01 13:02:25,NO OPERAR,NO OPERAR,2,38,0,Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:02:35,NO OPERAR,NO OPERAR,3,37,0,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:02:45,NO OPERAR,NO OPERAR,2,37,0,Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:02:55,NO OPERAR,NO OPERAR,3,37,0,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:03:05,NO OPERAR,NO OPERAR,3,37,0,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:03:15,NO OPERAR,NO OPERAR,2,37,0,Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:03:26,NO OPERAR,NO OPERAR,0,1,0,No hay suficientes velas.
+2026-10-01 13:03:36,NO OPERAR,NO OPERAR,0,1,0,No hay suficientes velas.
+2026-10-01 13:03:46,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:03:56,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:04:06,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:04:16,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:04:26,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:04:36,NO OPERAR,NO OPERAR,1,10,0,Predominio de velas verdes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso alcista reciente.
+2026-10-01 13:04:46,NO OPERAR,NO OPERAR,0,8,0,No hay suficientes velas.
+2026-10-01 13:04:56,SUBIDA,NO OPERAR,4,17,1,Predominio de velas verdes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente.
+2026-10-01 13:05:06,SUBIDA,NO OPERAR,4,17,2,Predominio de velas verdes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente.
+2026-10-01 13:05:16,NO OPERAR,NO OPERAR,0,5,0,No hay suficientes velas.
+2026-10-01 13:05:26,NO OPERAR,NO OPERAR,0,7,0,No hay suficientes velas.
+2026-10-01 13:05:36,NO OPERAR,NO OPERAR,0,7,0,No hay suficientes velas.
+2026-10-01 13:05:46,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:05:57,NO OPERAR,NO OPERAR,0,0,0,No hay suficientes velas.
+2026-10-01 13:06:25,SUBIDA,NO OPERAR,5,8,4,60,38,1,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:06:35,SUBIDA,NO OPERAR,5,8,4,69,38,2,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:06:45,SUBIDA,SUBIDA CONFIRMADA,5,8,4,81,38,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:06:55,SUBIDA,SUBIDA CONFIRMADA,5,8,4,118,36,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:07:05,SUBIDA,SUBIDA CONFIRMADA,5,9,3,104,37,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:07:15,SUBIDA,SUBIDA CONFIRMADA,5,8,4,57,38,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:07:25,SUBIDA,SUBIDA CONFIRMADA,5,9,3,102,37,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:07:35,SUBIDA,SUBIDA CONFIRMADA,5,8,4,53,38,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:07:45,SUBIDA,SUBIDA CONFIRMADA,5,8,4,59,38,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:07:55,SUBIDA,SUBIDA CONFIRMADA,5,8,4,116,36,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:08:06,SUBIDA,SUBIDA CONFIRMADA,5,8,4,68,36,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:08:16,SUBIDA,SUBIDA CONFIRMADA,5,8,4,66,36,3,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:08:26,NO OPERAR,NO OPERAR,-2,1,9,254,10,0,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:08:36,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:08:46,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:08:56,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:09:06,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:09:16,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:09:26,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:09:36,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:09:46,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:09:56,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:10:06,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:10:16,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:10:27,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:10:37,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:10:47,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:10:57,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:11:07,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:11:17,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:11:27,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:11:37,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:11:47,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:11:57,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:12:07,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:12:17,NO OPERAR,NO OPERAR,0,,,,0,0,No hay suficientes velas.
+2026-10-01 13:12:27,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:12:37,NO OPERAR,NO OPERAR,0,,,,1,0,No hay suficientes velas.
+2026-10-01 13:14:11,BAJADA,NO OPERAR,-4,4,8,-8,36,1,13.243,Predominio de velas rojas. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:14:21,BAJADA,NO OPERAR,-4,4,8,-8,36,2,7.325,Predominio de velas rojas. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:14:31,BAJADA,BAJADA CONFIRMADA,-5,4,8,-8,35,3,4.852,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:14:41,BAJADA,BAJADA CONFIRMADA,-4,4,8,-8,35,3,4.366,Predominio de velas rojas. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:14:51,BAJADA,BAJADA CONFIRMADA,-4,4,8,-8,35,3,7.655,Predominio de velas rojas. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:15:01,NO OPERAR,NO OPERAR,2,7,5,26,30,0,8.293,Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:15:11,NO OPERAR,NO OPERAR,1,6,6,36,31,0,7.667,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:15:21,NO OPERAR,NO OPERAR,1,6,6,36,31,0,3.100,Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:15:31,NO OPERAR,NO OPERAR,1,6,6,36,30,0,2.672,Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:15:41,NO OPERAR,NO OPERAR,2,6,6,36,30,0,2.609,Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:15:52,NO OPERAR,NO OPERAR,1,6,6,36,30,0,2.339,Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:16:02,NO OPERAR,NO OPERAR,-1,6,6,1,31,0,5.973,Impulso bajista reciente.
+2026-10-01 13:16:12,NO OPERAR,NO OPERAR,0,6,6,1,31,0,3.625,Hay varias velas verdes con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:16:22,NO OPERAR,NO OPERAR,0,6,6,1,31,0,2.837,Hay varias velas verdes con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:16:32,NO OPERAR,NO OPERAR,-1,6,6,1,30,0,2.728,Impulso bajista reciente.
+2026-10-01 13:16:42,NO OPERAR,NO OPERAR,0,6,6,1,30,0,2.704,Hay varias velas verdes con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:16:52,NO OPERAR,NO OPERAR,0,6,6,1,30,0,2.814,Hay varias velas verdes con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:17:02,NO OPERAR,NO OPERAR,-3,5,7,-34,31,0,5.510,Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:17:12,NO OPERAR,NO OPERAR,0,,,,0,0,18.952,No hay suficientes velas.
+2026-10-01 13:22:25,NO OPERAR,NO OPERAR,0,5,7,164,26,0,4.498,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente.
+2026-10-01 13:22:35,NO OPERAR,NO OPERAR,2,5,7,164,26,0,4.114,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:22:45,NO OPERAR,NO OPERAR,0,5,7,164,26,0,4.186,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente.
+2026-10-01 13:22:55,NO OPERAR,NO OPERAR,0,5,7,164,26,0,4.584,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente.
+2026-10-01 13:23:05,NO OPERAR,NO OPERAR,1,6,6,70,27,0,5.301,Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:23:15,NO OPERAR,NO OPERAR,1,6,6,56,27,0,4.496,Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:23:25,NO OPERAR,NO OPERAR,2,6,6,16,27,0,4.666,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:23:35,NO OPERAR,NO OPERAR,-1,6,6,9,27,0,4.262,Hay varias velas rojas con cuerpos fuertes.
+2026-10-01 13:23:45,NO OPERAR,NO OPERAR,0,6,6,3,36,0,12.154,
+2026-10-01 13:23:55,NO OPERAR,NO OPERAR,2,6,6,135,34,0,3.085,Movimiento visual ascendente.
+2026-10-01 13:24:06,NO OPERAR,NO OPERAR,1,6,6,148,34,0,5.248,Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:24:16,NO OPERAR,NO OPERAR,2,6,6,87,36,0,4.692,Movimiento visual ascendente.
+2026-10-01 13:24:26,NO OPERAR,NO OPERAR,3,6,6,26,35,0,2.896,Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:24:36,NO OPERAR,NO OPERAR,2,6,6,89,36,0,2.284,Movimiento visual ascendente.
+2026-10-01 13:24:46,NO OPERAR,NO OPERAR,2,6,6,27,35,0,3.734,Movimiento visual ascendente.
+2026-10-01 13:24:56,NO OPERAR,NO OPERAR,0,,,,0,0,15.177,No hay suficientes velas.
+2026-10-01 13:25:16,NO OPERAR,NO OPERAR,0,,,,0,0,18.947,No hay suficientes velas.
+2026-10-01 13:25:26,NO OPERAR,NO OPERAR,0,,,,0,0,14.916,No hay suficientes velas.
+2026-10-01 13:25:36,NO OPERAR,NO OPERAR,0,,,,0,0,15.655,No hay suficientes velas.
+2026-10-01 13:25:56,BAJADA,NO OPERAR,-6,2,10,-23,13,1,35.675,Predominio de velas rojas. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:26:06,NO OPERAR,NO OPERAR,0,,,,0,0,36.820,No hay suficientes velas.
+2026-10-01 13:26:47,NO OPERAR,NO OPERAR,0,,,,7,0,10.856,No hay suficientes velas.
+2026-10-01 13:26:57,BAJADA,NO OPERAR,-5,2,10,-142,13,1,27.217,Predominio de velas rojas. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:27:27,NO OPERAR,NO OPERAR,0,,,,7,0,27.249,No hay suficientes velas.
+2026-10-01 13:31:24,NO OPERAR,NO OPERAR,-1,5,7,5,40,0,2.856,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Impulso bajista reciente.
+2026-10-01 13:31:35,NO OPERAR,NO OPERAR,-2,6,6,-62,18,0,5.012,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual descendente.
+2026-10-01 13:31:45,NO OPERAR,NO OPERAR,0,6,6,3,30,0,2.638,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes.
+2026-10-01 13:31:55,NO OPERAR,NO OPERAR,2,5,7,79,38,0,5.653,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:32:05,NO OPERAR,NO OPERAR,2,6,6,36,39,0,3.108,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:32:15,NO OPERAR,NO OPERAR,2,6,6,18,40,0,2.898,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente.
+2026-10-01 13:32:25,SUBIDA,NO OPERAR,4,7,5,66,33,1,3.932,Hay varias velas verdes con cuerpos fuertes. | Movimiento visual ascendente. | Impulso alcista reciente.
+2026-10-01 13:32:35,NO OPERAR,NO OPERAR,0,,,,0,0,4.670,No hay suficientes velas.
+2026-10-01 13:44:48,NO OPERAR,NO OPERAR,-1,5,7,59,40,0,2.615,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:45:08,NO OPERAR,NO OPERAR,-2,6,6,-4,45,0,2.694,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos.
+2026-10-01 13:45:18,NO OPERAR,NO OPERAR,1,6,6,73,46,0,2.313,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:45:28,NO OPERAR,NO OPERAR,-2,6,6,3,44,0,2.413,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos.
+2026-10-01 13:45:38,NO OPERAR,NO OPERAR,0,6,6,13,44,0,2.455,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes.
+2026-10-01 13:45:49,BAJADA,NO OPERAR,-4,6,6,-96,43,1,2.416,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente.
+2026-10-01 13:45:59,NO OPERAR,NO OPERAR,-2,6,6,-89,43,0,4.888,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual descendente.
+2026-10-01 13:46:09,NO OPERAR,NO OPERAR,-1,6,6,96,45,0,3.196,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:46:19,NO OPERAR,NO OPERAR,1,6,6,82,45,0,2.910,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:46:29,NO OPERAR,NO OPERAR,-1,6,6,80,44,0,2.646,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:46:39,NO OPERAR,NO OPERAR,-1,6,6,75,44,0,2.723,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:46:49,NO OPERAR,NO OPERAR,-1,6,6,89,45,0,2.653,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:46:59,NO OPERAR,NO OPERAR,-1,6,6,82,44,0,2.775,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:47:09,NO OPERAR,NO OPERAR,0,5,7,81,47,0,2.645,Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:47:19,NO OPERAR,NO OPERAR,-1,6,6,83,45,0,2.868,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:47:30,NO OPERAR,NO OPERAR,-1,6,6,67,43,0,2.593,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:47:40,NO OPERAR,NO OPERAR,-1,6,6,79,44,0,2.691,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:47:50,NO OPERAR,NO OPERAR,1,6,6,80,44,0,2.579,Hay varias velas verdes con cuerpos fuertes. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:48:00,NO OPERAR,NO OPERAR,0,,,,0,0,5.261,No hay suficientes velas.
+2026-10-01 13:49:27,SUBIDA,NO OPERAR,5,8,4,20,44,1,2.915,Predominio de velas verdes. | Hay varias velas verdes con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente.
+2026-10-01 13:49:37,NO OPERAR,NO OPERAR,1,6,6,22,43,0,2.906,Hay varias velas verdes con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01 13:49:47,NO OPERAR,NO OPERAR,-1,6,6,2,44,0,2.813,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:49:57,NO OPERAR,NO OPERAR,-1,6,6,7,44,0,2.756,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:50:07,NO OPERAR,NO OPERAR,-2,5,7,2,45,0,2.792,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:50:17,NO OPERAR,NO OPERAR,-2,5,7,-10,45,0,2.910,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Impulso bajista reciente.
+2026-10-01 13:50:27,NO OPERAR,NO OPERAR,-3,5,7,-34,44,0,4.470,Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:50:37,NO OPERAR,NO OPERAR,-3,6,6,-16,43,0,2.869,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:50:47,NO OPERAR,NO OPERAR,0,5,7,-3,44,0,2.816,Se detectan varios rechazos de precios bajos. | Impulso bajista reciente.
+2026-10-01 13:50:58,NO OPERAR,NO OPERAR,-3,6,6,-20,43,0,2.839,Se detectan varios rechazos de precios bajos. | Se detectan varios rechazos de precios altos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:51:08,BAJADA,NO OPERAR,-6,3,9,-93,46,1,2.863,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:51:18,BAJADA,NO OPERAR,-5,4,8,-39,45,2,2.621,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:51:28,BAJADA,BAJADA CONFIRMADA,-6,4,8,-39,42,3,2.793,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:51:38,BAJADA,BAJADA CONFIRMADA,-5,4,8,-39,42,3,2.295,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:51:48,BAJADA,BAJADA CONFIRMADA,-5,4,8,-39,44,3,2.242,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:51:58,BAJADA,BAJADA CONFIRMADA,-5,4,8,-39,42,3,2.327,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:52:08,BAJADA,BAJADA CONFIRMADA,-5,4,8,-39,42,3,2.239,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios bajos. | Movimiento visual descendente. | Impulso bajista reciente.
+2026-10-01 13:52:19,NO OPERAR,NO OPERAR,-3,1,11,83,14,0,12.154,Predominio de velas rojas. | Hay varias velas rojas con cuerpos fuertes. | Se detectan varios rechazos de precios altos. | Movimiento visual ascendente. | Impulso bajista reciente.
+2026-10-01,14:41:25,NO OPERAR,3.0,26.0,0,False
+2026-10-01,14:41:35,SUBIDA,4.0,26.0,1,False
+2026-10-01,14:41:45,NO OPERAR,1.0,63.0,0,False
+2026-10-01,14:41:55,NO OPERAR,1.0,66.0,0,False
+2026-10-01,14:42:05,NO OPERAR,2.0,49.0,0,False
+2026-10-01,14:42:15,NO OPERAR,2.0,45.0,0,False
+2026-10-01,14:42:25,NO OPERAR,1.0,57.0,0,False
+2026-10-01,14:42:35,NO OPERAR,2.0,37.0,0,False
+2026-10-01,14:42:45,NO OPERAR,2.0,42.0,0,False
+2026-10-01,14:42:55,NO OPERAR,1.0,61.0,0,False
+2026-10-01,14:43:05,NO OPERAR,1.0,37.0,0,False
+2026-10-01,14:43:15,NO OPERAR,1.0,54.0,0,False
+2026-10-01,14:43:25,NO OPERAR,1.0,62.0,0,False
+2026-10-01,14:43:35,NO OPERAR,2.0,59.0,0,False
+2026-10-01,14:43:45,NO OPERAR,1.0,60.0,0,False
+2026-10-01,14:43:55,NO OPERAR,1.0,60.0,0,False
+2026-10-01,14:44:05,NO OPERAR,2.0,39.0,0,False
+2026-10-01,14:44:15,NO OPERAR,1.0,53.0,0,False
+2026-10-01,14:44:25,NO OPERAR,2.0,38.0,0,False
+2026-10-01,14:44:35,NO OPERAR,3.0,68.0,0,False
+2026-10-01,14:44:45,NO OPERAR,2.0,39.0,0,False
+2026-10-01,14:44:55,NO OPERAR,2.0,41.0,0,False
+2026-10-01,14:45:05,NO OPERAR,2.0,41.0,0,False
+2026-10-01,14:45:15,NO OPERAR,3.0,70.0,0,False
+2026-10-01,14:45:25,NO OPERAR,-1.0,-7.0,0,False
+2026-10-01,14:45:35,NO OPERAR,-1.0,9.0,0,False
+2026-10-01,14:45:45,NO OPERAR,-1.0,9.0,0,False
+2026-10-01,14:45:55,NO OPERAR,-2.0,-9.0,0,False
+2026-10-01,14:46:05,NO OPERAR,-1.0,8.0,0,False
+2026-10-01,14:46:15,NO OPERAR,-2.0,-4.0,0,False
+2026-10-01,14:46:20,NO OPERAR,1.0,16.0,0,False
+2026-10-01,14:46:30,NO OPERAR,1.0,63.0,0,False
+2026-10-01,14:46:40,NO OPERAR,-2.0,74.0,0,False
+2026-10-01,14:46:50,NO OPERAR,1.0,36.0,0,False
+2026-10-01,14:47:00,NO OPERAR,2.0,58.0,0,False
+2026-10-01,14:47:10,NO OPERAR,-2.0,20.0,0,False
+2026-10-01,14:47:20,BAJADA,-4.0,-12.0,1,False
+2026-10-01,14:47:30,NO OPERAR,-1.0,-4.0,0,False
+2026-10-01,14:47:40,NO OPERAR,-1.0,5.0,0,False
+2026-10-01,14:47:50,NO OPERAR,-2.0,58.0,0,False
+2026-10-01,14:48:00,NO OPERAR,-2.0,37.0,0,False
+2026-10-01,14:48:10,BAJADA,-4.0,-10.0,1,False
+2026-10-01,14:48:20,BAJADA,-4.0,10.0,2,False
+2026-10-01,14:48:30,NO OPERAR,-2.0,2.0,0,False
+2026-10-01,14:48:40,BAJADA,-4.0,2.0,1,False
+2026-10-01,14:48:50,NO OPERAR,1.0,66.0,0,False
+2026-10-01,14:49:00,NO OPERAR,-2.0,70.0,0,False
+2026-10-01,14:49:10,NO OPERAR,-2.0,28.0,0,False
+2026-10-01,14:49:20,NO OPERAR,-2.0,62.0,0,False
+2026-10-01,14:49:30,BAJADA,-4.0,2.0,1,False
+2026-10-01,14:49:40,BAJADA,-4.0,-4.0,2,False
+2026-10-01,14:49:50,BAJADA,-6.0,-24.0,3,True
+2026-10-01,14:50:00,BAJADA,-6.0,-62.0,3,True
+2026-10-01,14:50:10,BAJADA,-6.0,-98.0,3,True
+2026-10-01,14:50:20,BAJADA,-5.0,-102.0,3,True
+2026-10-01,14:50:30,BAJADA,-4.0,-96.0,3,True
+2026-10-01,14:50:41,BAJADA,-4.0,-43.0,3,True
+2026-10-01,14:50:51,NO OPERAR,0.0,26.0,0,False
+2026-10-01,14:51:01,NO OPERAR,0.0,39.0,0,False
+2026-10-01,14:51:11,NO OPERAR,-1.0,16.0,0,False
+2026-10-01,14:51:21,BAJADA,-4.0,-54.0,1,False
+2026-10-01,14:51:31,NO OPERAR,1.0,32.0,0,False
+2026-10-01,14:51:41,NO OPERAR,1.0,48.0,0,False
+2026-10-01,14:51:51,NO OPERAR,3.0,26.0,0,False
+2026-10-01,14:52:01,NO OPERAR,3.0,97.0,0,False
+2026-10-01,14:52:11,NO OPERAR,3.0,49.0,0,False
+2026-10-01,14:52:21,NO OPERAR,3.0,87.0,0,False
+2026-10-01,14:52:31,SUBIDA,4.0,47.0,1,False
+2026-10-01,14:52:41,NO OPERAR,3.0,26.0,0,False
+2026-10-01,14:52:51,NO OPERAR,1.0,76.0,0,False
+2026-10-01,14:53:01,NO OPERAR,1.0,76.0,0,False
+2026-10-01,14:53:11,NO OPERAR,-2.0,-7.0,0,False
+2026-10-01,14:53:21,NO OPERAR,-3.0,-33.0,0,False
+2026-10-01,14:53:31,NO OPERAR,1.0,60.0,0,False
+2026-10-01,14:53:41,NO OPERAR,-2.0,33.0,0,False
+2026-10-01,14:53:51,NO OPERAR,-2.0,30.0,0,False
+2026-10-01,14:54:01,BAJADA,-4.0,14.0,1,False
+2026-10-01,14:54:11,NO OPERAR,-1.0,-11.0,0,False
+2026-10-01,14:54:21,BAJADA,-6.0,-237.0,1,False
+2026-10-01,14:54:31,BAJADA,-6.0,-254.0,2,False
+2026-10-01,14:54:41,BAJADA,-6.0,-238.0,3,True
+2026-10-01,14:54:51,BAJADA,-6.0,-251.0,3,True
+2026-10-01,14:55:01,BAJADA,-6.0,-249.0,3,True
+2026-10-01,14:55:11,BAJADA,-6.0,-251.0,3,True
+2026-10-01,14:55:21,BAJADA,-6.0,-279.0,3,True
+2026-10-01,14:55:31,BAJADA,-6.0,-288.0,3,True
+2026-10-01,14:55:41,BAJADA,-6.0,-174.0,3,True
+2026-10-01,14:55:51,BAJADA,-6.0,-263.0,3,True
+2026-10-01,14:56:01,BAJADA,-6.0,-215.0,3,True
+2026-10-01,14:56:11,BAJADA,-5.0,-94.0,3,True
+2026-10-01,14:56:21,BAJADA,-6.0,-48.0,3,True
+2026-10-01,14:56:31,NO OPERAR,-3.0,-11.0,0,False
+2026-10-01,14:56:41,NO OPERAR,-2.0,70.0,0,False
+2026-10-01,14:56:51,BAJADA,-6.0,-37.0,1,False
+2026-10-01,14:57:01,BAJADA,-4.0,-4.0,2,False
+2026-10-01,14:57:11,BAJADA,-6.0,-35.0,3,True
+2026-10-01,14:57:21,BAJADA,-6.0,-77.0,3,True
+2026-10-01,14:57:31,BAJADA,-6.0,-95.0,3,True
+2026-10-01,14:57:41,BAJADA,-6.0,-159.0,3,True
+2026-10-01,14:57:51,BAJADA,-5.0,-187.0,3,True
+2026-10-01,14:58:01,BAJADA,-5.0,-195.0,3,True
+2026-10-01,14:58:11,BAJADA,-6.0,-241.0,3,True
+2026-10-01,14:58:21,BAJADA,-5.0,-240.0,3,True
+2026-10-01,14:58:31,BAJADA,-6.0,-281.0,3,True
+2026-10-01,14:58:41,BAJADA,-6.0,-277.0,3,True
+2026-10-01,14:58:51,BAJADA,-5.0,-261.0,3,True
+2026-10-01,14:59:01,BAJADA,-5.0,-265.0,3,True
+2026-10-01,14:59:11,NO OPERAR,-2.0,-247.0,0,False
+2026-10-01,14:59:21,NO OPERAR,-2.0,-227.0,0,False
+2026-10-01,14:59:31,BAJADA,-5.0,-207.0,1,False
+2026-10-01,14:59:41,BAJADA,-5.0,-193.0,2,False
+2026-10-01,14:59:51,NO OPERAR,-1.0,-166.0,0,False
+2026-10-01,15:00:01,NO OPERAR,0.0,0.0,0,False
+2026-10-01,15:00:11,NO OPERAR,-2.0,62.0,0,False
+2026-10-01,15:00:21,BAJADA,-5.0,-249.0,1,False
+2026-10-01,15:00:31,BAJADA,-5.0,-297.0,2,False
+2026-10-01,15:00:41,BAJADA,-6.0,-310.0,3,True
+2026-10-01,15:00:51,BAJADA,-6.0,-296.0,3,True
+2026-10-01,15:01:01,BAJADA,-4.0,-275.0,3,True
+2026-10-01,15:01:11,BAJADA,-6.0,-174.0,3,True
+2026-10-01,15:01:21,BAJADA,-5.0,-93.0,3,True
+2026-10-01,15:01:31,BAJADA,-6.0,-112.0,3,True
+2026-10-01,15:01:41,BAJADA,-6.0,-306.0,3,True
+2026-10-01,15:01:51,BAJADA,-6.0,-303.0,3,True
+2026-10-01,15:02:01,BAJADA,-6.0,-266.0,3,True
+2026-10-01,15:02:11,NO OPERAR,-2.0,-124.0,0,False
+2026-10-01,19:08:29,SUBIDA,4.0,149.0,1,False
+2026-10-01,19:08:39,SUBIDA,4.0,160.0,2,False
+2026-10-01,19:08:49,SUBIDA,4.0,151.0,3,True
+2026-10-01,19:08:59,SUBIDA,4.0,151.0,3,True
+2026-10-01,19:09:09,SUBIDA,4.0,172.0,3,True
+2026-10-01,19:09:19,NO OPERAR,2.0,147.0,0,False
+2026-10-01,19:09:29,NO OPERAR,3.0,146.0,0,False
+2026-10-01,19:09:39,NO OPERAR,3.0,137.0,0,False
+2026-10-01,19:10:19,BAJADA,-5.0,-20.0,1,False
+2026-10-01,19:12:17,NO OPERAR,-1.0,142.0,0,False
+2026-10-01,19:15:34,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:36,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:38,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:40,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:42,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:44,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:46,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:48,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:50,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:52,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:54,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:56,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:15:58,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:16:00,NO OPERAR,-2.0,44.0,0,False
+2026-10-01,19:16:02,NO OPERAR,-2.0,45.0,0,False
+2026-10-01,19:16:04,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:06,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:08,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:10,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:12,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:14,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:16,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:18,NO OPERAR,-2.0,46.0,0,False
+2026-10-01,19:16:20,NO OPERAR,-3.0,-5.0,0,False
+2026-10-01,19:16:22,BAJADA,-6.0,-31.0,1,False
+2026-10-01,19:16:24,BAJADA,-6.0,-27.0,2,False
+2026-10-01,19:16:26,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:28,BAJADA,-4.0,-7.0,1,False
+2026-10-01,19:16:30,BAJADA,-4.0,-7.0,2,False
+2026-10-01,19:16:32,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:34,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:36,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:38,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:40,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:42,BAJADA,-6.0,-31.0,1,False
+2026-10-01,19:16:44,BAJADA,-4.0,-6.0,2,False
+2026-10-01,19:16:46,BAJADA,-4.0,-6.0,3,True
+2026-10-01,19:16:48,BAJADA,-4.0,-6.0,3,True
+2026-10-01,19:16:50,NO OPERAR,-3.0,-6.0,0,False
+2026-10-01,19:16:52,NO OPERAR,-3.0,-8.0,0,False
+2026-10-01,19:16:54,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:56,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:16:58,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:17:00,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:17:02,BAJADA,-4.0,-7.0,1,False
+2026-10-01,19:17:04,BAJADA,-4.0,-7.0,2,False
+2026-10-01,19:17:06,BAJADA,-6.0,-43.0,3,True
+2026-10-01,19:17:08,NO OPERAR,-3.0,-7.0,0,False
+2026-10-01,19:17:10,BAJADA,-6.0,-43.0,1,False
+2026-10-01,19:17:12,BAJADA,-6.0,-43.0,2,False
+2026-10-01,19:17:14,BAJADA,-7.0,-42.0,3,True
+2026-10-01,19:17:16,BAJADA,-7.0,-42.0,3,True
+2026-10-01,19:17:18,BAJADA,-7.0,-42.0,3,True
+2026-10-01,19:17:20,BAJADA,-7.0,-16.0,3,True
+2026-10-01,19:17:22,BAJADA,-4.0,-11.0,3,True
+2026-10-01,19:17:24,BAJADA,-4.0,-11.0,3,True
+2026-10-01,19:17:26,BAJADA,-6.0,-41.0,3,True
+2026-10-01,19:17:28,BAJADA,-7.0,-41.0,3,True
+2026-10-01,19:17:30,BAJADA,-7.0,-40.0,3,True
+2026-10-01,19:17:32,BAJADA,-6.0,-39.0,3,True
+2026-10-01,19:17:34,BAJADA,-6.0,-39.0,3,True
+2026-10-01,19:17:36,BAJADA,-6.0,-39.0,3,True
+2026-10-01,19:17:38,BAJADA,-6.0,-39.0,3,True
+2026-10-01,19:17:40,BAJADA,-6.0,-39.0,3,True
+2026-10-01,19:17:42,BAJADA,-4.0,1.0,3,True
+2026-10-01,19:17:44,BAJADA,-4.0,9.0,3,True
+2026-10-01,19:17:46,BAJADA,-7.0,-38.0,3,True
+2026-10-01,19:17:48,BAJADA,-7.0,-38.0,3,True
+2026-10-01,19:17:50,BAJADA,-7.0,-38.0,3,True
+2026-10-01,19:17:52,BAJADA,-5.0,-121.0,3,True
+2026-10-01,19:18:14,NO OPERAR,-3.0,16.0,0,False
+2026-10-01,19:18:16,BAJADA,-5.0,7.0,1,False
+2026-10-01,19:18:18,BAJADA,-5.0,7.0,2,False
+2026-10-01,19:18:20,BAJADA,-5.0,-121.0,3,True
+2026-10-01,19:18:34,BAJADA,-5.0,-121.0,3,True
+2026-10-01,19:18:59,BAJADA,-5.0,-121.0,3,True
+2026-10-01,19:31:15,NO OPERAR,0.0,-83.0,0,False
+2026-10-01,19:32:01,NO OPERAR,0.0,-83.0,0,False
+2026-10-01,19:33:01,NO OPERAR,3.0,20.0,0,False
+2026-10-01,19:34:01,BAJADA,-5.0,-120.0,1,True
+2026-10-01,19:37:00,SUBIDA,1.0,8.0,1,True
+2026-10-01,19:38:00,SUBIDA,1.0,9.0,1,True
+2026-10-01,19:39:00,SUBIDA,3.0,40.0,1,True
+2026-10-01,19:40:00,SUBIDA,2.0,116.0,1,True
+2026-10-01,19:41:00,BAJADA,-5.0,-120.0,1,True
+2026-10-01,19:42:00,SUBIDA,2.0,87.0,1,True
+2026-10-01,19:43:00,BAJADA,-5.0,-120.0,1,True
+2026-10-01,19:45:00,BAJADA,1.0,47.0,1,True
+2026-10-01,19:46:00,BAJADA,-6.0,-199.0,1,True
+2026-10-01,19:47:00,BAJADA,-6.0,-205.0,1,True
+2026-10-01,19:48:00,BAJADA,-6.0,-268.0,1,True
+2026-10-01,19:49:00,BAJADA,-6.0,-248.0,1,True
+2026-10-01,20:01:00,BAJADA,-16.5,-26.0,1,True
+2026-10-01,20:02:00,BAJADA,-11.0,-22.0,1,True
+2026-10-01,20:20:00,BAJADA,-10.5,245.0,1,True
+2026-10-01,20:21:00,BAJADA,-10.5,177.0,1,True
+2026-10-01,20:22:00,BAJADA,-13.0,210.0,1,True
+2026-10-01,20:23:00,BAJADA,-11.0,366.0,1,True
+2026-10-01,20:30:00,BAJADA,-15.5,-108.0,1,True
+2026-10-01,20:31:00,BAJADA,-15.5,-108.0,1,True
+2026-10-01,20:32:00,SUBIDA,1.5,-1.0,1,True
+2026-10-01,20:33:00,BAJADA,-1.5,48.0,1,True
+2026-10-01,20:34:00,BAJADA,-14.0,-100.0,1,True
+2026-10-01,20:35:00,SUBIDA,2.5,111.0,1,True
+2026-10-01,20:56:00,NO OPERAR,-6.5,-17.0,0,False
+2026-10-01,20:57:00,SUBIDA,9.5,124.0,1,True
+2026-10-01,20:58:00,SUBIDA,17.5,69.0,1,True
+2026-10-01,20:59:00,SUBIDA,17.5,132.0,1,True
+2026-10-01,21:00:00,NO OPERAR,-9.0,71.0,0,False
+2026-10-01,21:01:00,SUBIDA,15.5,66.0,1,True
+2026-10-01,21:02:00,SUBIDA,10.5,-95.0,1,True
+2026-10-01,21:03:00,BAJADA,-13.5,-181.0,1,True
+2026-10-01,21:06:00,NO OPERAR,4.5,-12.0,0,False
+2026-10-01,21:07:00,NO OPERAR,-3.0,174.0,0,False
+2026-10-01,21:13:00,BAJADA,-8.0,18.0,1,True
+2026-10-01,21:14:00,BAJADA,-15.5,-184.0,1,True
+2026-10-01,21:15:00,BAJADA,-15.5,-184.0,1,True
+2026-10-01,21:16:00,BAJADA,-15.5,-184.0,1,True
+2026-10-01,21:17:00,BAJADA,-15.5,-184.0,1,True
+2026-10-01,21:18:00,BAJADA,-15.5,-184.0,1,True
+2026-10-01,21:23:00,BAJADA,-6.5,26.0,1,True
+2026-10-01,21:24:00,SUBIDA,4.5,-61.0,1,True
+2026-10-01,21:25:00,BAJADA,-2.0,93.0,1,True
+2026-10-01,21:26:00,BAJADA,-13.5,1.0,1,True
+2026-10-01,21:27:03,SUBIDA,9.5,-61.0,1,True
+2026-10-01,21:28:00,BAJADA,-15.0,-65.0,1,True
+2026-10-01,21:29:00,BAJADA,-17.0,-84.0,1,True
+2026-10-01,21:31:38,BAJADA,-15.5,-360.0,1,True
+2026-10-01,21:32:00,SUBIDA,16.0,188.0,1,True
+2026-10-01,21:33:00,SUBIDA,16.0,188.0,1,True
+2026-10-01,21:34:00,SUBIDA,16.0,188.0,1,True
+2026-10-01,21:35:00,SUBIDA,16.0,188.0,1,True
+2026-10-01,21:36:06,SUBIDA,16.0,188.0,1,True
+2026-10-02,18:32:00,SUBIDA,1.5,-209.0,1,True
+2026-10-02,18:33:00,BAJADA,-9.5,-183.0,1,True
+2026-10-02,18:34:00,SUBIDA,3.5,-137.0,1,True
+2026-10-02,18:35:00,SUBIDA,6.5,-158.0,1,True
+2026-10-02,18:36:00,SUBIDA,5.5,-110.0,1,True
+2026-10-02,18:37:00,SUBIDA,10.5,12.0,1,True
+2026-10-02,18:38:00,SUBIDA,15.5,333.0,1,True
+2026-10-02,18:39:00,SUBIDA,3.0,355.0,1,True
+2026-10-02,18:40:00,SUBIDA,11.5,380.0,1,True
+2026-10-02,18:41:00,NO OPERAR,-0.5,335.0,0,False
+2026-10-02,18:42:01,SUBIDA,8.0,422.0,1,True
+2026-10-02,18:43:00,BAJADA,-5.5,395.0,1,True
+2026-10-02,18:44:00,BAJADA,-6.5,297.0,1,True
+2026-10-02,19:21:01,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:22:00,SUBIDA,8.1,237.0,1,True
+2026-10-02,19:26:01,SUBIDA,10.300000000000002,124.0,1,True
+2026-10-02,19:32:02,NO OPERAR,-1.1999999999999995,-105.0,0,False
+2026-10-02,19:33:00,NO OPERAR,2.7,-39.0,0,False
+2026-10-02,19:34:00,NO OPERAR,2.7,-39.0,0,False
+2026-10-02,19:35:00,NO OPERAR,2.4000000000000004,-58.0,0,False
+2026-10-02,19:36:00,NO OPERAR,4.0,-13.0,0,False
+2026-10-02,19:50:02,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:51:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:52:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:53:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:54:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:55:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:56:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:57:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:58:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,19:59:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:00:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:01:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:02:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:03:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:04:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:05:02,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:06:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:07:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:08:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:09:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:10:02,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:11:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:12:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:13:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:14:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:15:02,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:16:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:17:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:18:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:19:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:20:02,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:21:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:22:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:23:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:24:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:25:02,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:26:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:27:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:28:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:29:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:30:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:31:00,SUBIDA,5.5,309.0,1,True
+2026-10-02,20:32:02,SUBIDA,5.5,368.0,1,True
+2026-10-02,20:33:00,NO OPERAR,5.499999999999999,274.0,0,False
+2026-10-02,20:34:00,NO OPERAR,2.4000000000000004,179.0,0,False
+2026-10-02,20:35:00,NO OPERAR,0.6000000000000001,203.0,0,False
+2026-10-02,20:36:00,NO OPERAR,3.4000000000000004,267.0,0,False
+2026-10-02,20:37:01,NO OPERAR,-0.30000000000000027,109.0,0,False
+2026-10-02,20:38:00,NO OPERAR,0.10000000000000009,-84.0,0,False
+2026-10-02,20:39:00,NO OPERAR,-0.19999999999999973,-25.0,0,False
+2026-10-02,20:40:00,NO OPERAR,0.0,-143.0,0,False
+2026-10-02,20:41:00,NO OPERAR,3.1,-186.0,0,False
+2026-10-02,20:42:02,SUBIDA,7.4,-104.0,1,True
+2026-10-02,20:43:00,SUBIDA,9.6,-89.0,1,True
+2026-10-02,20:44:00,SUBIDA,10.4,93.0,1,True
+2026-10-02,20:45:00,SUBIDA,9.0,241.0,1,True
+2026-10-02,20:46:00,SUBIDA,9.4,207.0,1,True
+2026-10-02,20:47:02,SUBIDA,7.1000000000000005,102.0,1,True
+2026-10-02,20:51:00,SUBIDA,12.3,235.0,1,True
+2026-10-02,20:52:00,SUBIDA,4.3999999999999995,119.0,1,True
+2026-10-02,20:53:00,SUBIDA,4.3999999999999995,139.0,1,True
+2026-10-02,20:54:00,BAJADA,-6.2,65.0,1,True
+2026-10-02,20:57:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:57:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,20:58:00,NO OPERAR,0.0,0.0,0,False
+2026-10-02,21:00:36,NO OPERAR,0.0,0.0,0,False
